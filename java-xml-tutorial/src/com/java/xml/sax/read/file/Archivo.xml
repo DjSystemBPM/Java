@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+	<staff>
+		<firstname>cuevas</firstname>
+		<lastname>barrera</lastname>
+		<nickname>alfredo</nickname>
+		<salary>100000</salary>
+	</staff>
+	<staff>
+		<firstname>cruz</firstname>
+		<lastname>cabrera</lastname>
+		<nickname>aldo</nickname>
+		<salary>200000</salary>
+	</staff>
+</company>
