@@ -1,4 +1,4 @@
-![Maven](https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png)
+![Maven](https://maven.apache.org/images/maven-logo-black-on-white.png)
 
 # MAVEN CUSTOM ARCHETYPE  	
 
