@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype>
+  <id>Multiva_ESB_Archetype</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+    <source>src/main/java/Ejemplo.java</source>
+    <source>src/main/java/Ejemplo2.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+  <resources>
+  	<resource>src/main/resources/application.properties</resource>
+  </resources>
+</archetype>
